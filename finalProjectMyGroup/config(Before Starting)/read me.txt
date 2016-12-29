@@ -1,0 +1,44 @@
+OpenGL Solar Sample System:
+==============================
+Before you start run this project you must have:
+	+ Have Code Block IDE
+	+ Import Some library in your new project of CodeBlock
+		==>Right Click on your project workspace > Build Options > Linker Settings
+		==> and import Linker Libraries such as, 
+			- opengl32
+			- glu32
+			- glut32
+			- fmod
+	+ fmod is the library in this project on directory config(Before Starting)/lib
+===============================
+In this directory has main directories and dll such as:
+	+ include (fmod.h, fmod_errors.h, fmoddyn.h, wincompat.h)
+	+ lib (fmod.lib, libfmod.so)
+	+ fmod.dll
+===============================
+-----for dll file--------
+You must import fmod.dll to C directory as following:
+	+ for Win32: import to C:\Windows\System32
+	+ for Win64: import to C:\Windows\SysWOW64
+------for header files---
+You must import all above header into:
+	+ for Win32: import to C:\Program Files\CodeBlocks\MinGW\include
+	+ for Win64: import to C:\Program Files(x86)\CodeBlocks\MinGW\include
+------for lib------------
+You must import all .lib and .so to:
+	+ for Win32: import to C:\Program Files\CodeBlocks\MinGW\lib
+	+ for Win64: import to C:\Program Files(x86)\CodeBlocks\MinGW\lib
+
+
+
+===================Thank You==================
+===================Contact====================
+if this project slow you need open code change 
+numStar in header file SolarSystemGlobals change to
+ 1000 or less than 1000
+
+*****************************************************************************************
+*      HUOT PANHARITH ,ROCA AR , KONG MEAS , KOMPONG CHAM , CAMBODIA (YEAR 3 IN RUPP)	*
+*****************************************************************************************
+panharith.huot1@gmail.com
+==============================================

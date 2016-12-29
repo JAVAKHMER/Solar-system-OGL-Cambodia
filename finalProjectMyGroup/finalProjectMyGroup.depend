@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1338233249 source:d:\computer graphic\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1338233257 d:\computer graphic\finalprojectmygroup\imageloader.h
+
+1338233249 source:d:\music\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1338233257 d:\music\finalprojectmygroup\imageloader.h
+
+1412699983 source:d:\music\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"imageloader.h"
+
+1412825717 source:d:\khmer\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412890131 d:\khmer\finalprojectmygroup\imageloader.h
+
+1412893240 source:d:\khmer\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+
+1412862521 d:\khmer\finalprojectmygroup\solarsystemglobals.h
+
+1412825717 source:d:\the last night for delvelob project\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412890131 d:\the last night for delvelob project\finalprojectmygroup\imageloader.h
+
+1412958820 source:d:\the last night for delvelob project\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+	"material.h"
+
+1412931165 d:\the last night for delvelob project\finalprojectmygroup\solarsystemglobals.h
+
+1264104380 d:\the last night for delvelob project\finalprojectmygroup\material.h
+	<GL/glut.h>
+
+1412825717 source:d:\the last night for delveloping project\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412890131 d:\the last night for delveloping project\finalprojectmygroup\imageloader.h
+
+1413041627 source:d:\the last night for delveloping project\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+	"material.h"
+
+1413011232 d:\the last night for delveloping project\finalprojectmygroup\solarsystemglobals.h
+
+1264104380 d:\the last night for delveloping project\finalprojectmygroup\material.h
+	<GL/glut.h>
+
+1412822117 source:d:\project\group2_solar system\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412886531 d:\project\group2_solar system\finalprojectmygroup\imageloader.h
+
+1413038027 source:d:\project\group2_solar system\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+	"material.h"
+
+1413685494 d:\project\group2_solar system\finalprojectmygroup\solarsystemglobals.h
+
+1264100780 d:\project\group2_solar system\finalprojectmygroup\material.h
+	<GL/glut.h>
+
+1412822117 source:d:\project_gl\group2_solar system\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412886531 d:\project_gl\group2_solar system\finalprojectmygroup\imageloader.h
+
+1413038027 source:d:\project_gl\group2_solar system\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+	"material.h"
+
+1413685494 d:\project_gl\group2_solar system\finalprojectmygroup\solarsystemglobals.h
+
+1264100780 d:\project_gl\group2_solar system\finalprojectmygroup\material.h
+	<GL/glut.h>
+
+1412872518 source:f:\book\gorup sls 3 java khmer\g001_solar_system\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412936932 f:\book\gorup sls 3 java khmer\g001_solar_system\finalprojectmygroup\imageloader.h
+
+1413088428 source:f:\book\gorup sls 3 java khmer\g001_solar_system\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+	"material.h"
+
+1413735896 f:\book\gorup sls 3 java khmer\g001_solar_system\finalprojectmygroup\solarsystemglobals.h
+
+1264151180 f:\book\gorup sls 3 java khmer\g001_solar_system\finalprojectmygroup\material.h
+	<GL/glut.h>
+
+1412872518 source:e:\g001_solar_system\finalprojectmygroup\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1412936932 e:\g001_solar_system\finalprojectmygroup\imageloader.h
+
+1413088428 source:e:\g001_solar_system\finalprojectmygroup\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<time.h>
+	<fmod.h>
+	<fmod_errors.h>
+	<fstream>
+	<wincompat.h>
+	"SolarSystemGlobals.h"
+	"imageloader.h"
+	"material.h"
+
+1413735896 e:\g001_solar_system\finalprojectmygroup\solarsystemglobals.h
+
+1264151180 e:\g001_solar_system\finalprojectmygroup\material.h
+	<GL/glut.h>
+
